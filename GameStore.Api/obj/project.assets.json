@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/GameStore.Api/GameStore.Api.csproj",
+      "projectUniqueName": "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/GameStore.Api.csproj",
       "projectName": "GameStore.Api",
-      "projectPath": "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/GameStore.Api/GameStore.Api.csproj",
+      "projectPath": "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/GameStore.Api.csproj",
       "packagesPath": "/Users/erwin/.nuget/packages/",
-      "outputPath": "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/GameStore.Api/obj/",
+      "outputPath": "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/erwin/.nuget/NuGet/NuGet.Config"
