@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/erwin/dotnet-lesson/GameStore/GameStor.Api/GameStor.Api.csproj": {}
+    "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/GameStore.Api/GameStore.Api.csproj": {}
   },
   "projects": {
-    "/Users/erwin/dotnet-lesson/GameStore/GameStor.Api/GameStor.Api.csproj": {
+    "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/GameStore.Api/GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/erwin/dotnet-lesson/GameStore/GameStor.Api/GameStor.Api.csproj",
-        "projectName": "GameStor.Api",
-        "projectPath": "/Users/erwin/dotnet-lesson/GameStore/GameStor.Api/GameStor.Api.csproj",
+        "projectUniqueName": "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/GameStore.Api/GameStore.Api.csproj",
+        "projectName": "GameStore.Api",
+        "projectPath": "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/GameStore.Api/GameStore.Api.csproj",
         "packagesPath": "/Users/erwin/.nuget/packages/",
-        "outputPath": "/Users/erwin/dotnet-lesson/GameStore/GameStor.Api/obj/",
+        "outputPath": "/Users/erwin/dotnet-lesson/GameStore/GameStore.Api/GameStore.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/erwin/.nuget/NuGet/NuGet.Config"
